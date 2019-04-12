@@ -31,12 +31,5 @@ class ScacchieraView : View {
 
         }
     }
-  //  override fun onTouchEvent(event: MotionEvent?): Boolean {
-    //    if (event.action==MotionEvent.ACTION_UP){}
-
-
-
-    //    return super.onTouchEvent(event)
-    //}
-
+  
 }
